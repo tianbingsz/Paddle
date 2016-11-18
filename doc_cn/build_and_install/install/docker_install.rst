@@ -1,4 +1,4 @@
-安装PaddlePaddle的Docker镜像
+安装PaddlePaddleDocker镜像
 ============================
 
 PaddlePaddle提供了Docker的使用镜像。PaddlePaddle推荐使用Docker进行PaddlePaddle的部署和
